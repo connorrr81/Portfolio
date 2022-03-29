@@ -1,0 +1,14 @@
+x2,True,False,0.8871041536331177
+x2,True,False,0.8871041536331177
+False,False,False,0.8724185228347778
+False,True,False,0.8751720786094666
+x3,True,False,0.8957513570785522
+x3,True,False,0.8768686056137085,Different strides
+False,True,False,0.8737214803695679,Different padding
+False,True,True,0.7568843364715576
+False,True,True,0.8194335103034973
+False,True,True,0.884403645992279,back to 70:30
+x3,True,True,0.9238532185554504,back to 70:30
+x3,True,True,0.8954128623008728,back to 70:30,>10
+x3,True,True,1.0,back to 70:30,>40
+0,True,True,0.9797979593276978,back to 70:30,>40
