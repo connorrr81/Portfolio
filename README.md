@@ -1,9 +1,10 @@
-# UniversityProjects
-A collection of machine learning projects I did for my MSc Data Science, comprising:
+# Portfolio
+A collection of machine learning projects I have completed for my MSc Data Science and side projects, comprising:
 
-- Dissertation on exploring data augmentation techniques for a deep learning approach to the classification of insects given their genetic sequence.
-- Exploratory data analysis and visualisations on tidal data and the erasmus data set.
-- Dimensionality reduction assignment on anthroprometric measurements.
-- more to come...
+- **Deep Learning in keras**: Dissertation on exploring data augmentation techniques for a deep learning approach to the classification of insects given their genetic sequence.
+- **Binary classification with scikit-learn**: Predicting sales in a marketing campaign, to upload.
+- **Unsupervised learning with scikit-learn**: Dimensionality reduction assignment on anthroprometric measurements.
+- **EDA with matplotlib and seaborn**: Exploratory data analysis and visualisations on tidal data and the erasmus data set.
+- **Visualisatoins with ggplot**: Obtaine interesting insights from the erasmus dataset.
 
 
